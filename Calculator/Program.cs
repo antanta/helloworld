@@ -14,7 +14,7 @@ namespace Calculator
         }
         static int Add(int i, int j)
         {
-            return i + j;
+            return i + j + 6;
         }
     }
 }
